@@ -1,1 +1,26 @@
+# Visual Studio
 .vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Folders
+Debug/
+Release/
+x64/
+x86/
+build/
+ipch/
+
+# Compiled
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+
+# Logs
+*.log
