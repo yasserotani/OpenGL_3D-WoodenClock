@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\yasser\\desktop\\graphics-lab\\lecture3\\opengl.sharedmodule\\src\\abstraction\\drawer.ixx",
+        "ProvidedModule": "Drawer",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "OpenGlShape",
+                "BMI": "C:\\Users\\yasser\\Desktop\\graphics-lab\\Lecture3\\OpenGL.SharedModule\\Win32\\Debug\\Temp\\OpenGlShape.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
